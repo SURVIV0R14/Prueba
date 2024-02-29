@@ -40,11 +40,11 @@ ul {
 
 body {
     height: 100vh;
-    background-color: var(--clr-gray);
+    background-color: var(--clr-black);
 }
 
 button {
-    background-color: transparent;
+    background-color: #6890F0;
     border: 0;
     border-radius: 15%;
 }
